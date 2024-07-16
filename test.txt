@@ -1,1 +1,3 @@
 welcome to awsdevops course at nareshlabs
+
+here we can learn aws and devops
